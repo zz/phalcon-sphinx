@@ -1,5 +1,5 @@
 {
-  "name": "minube/phalcon-sphinx",
+  "name": "zz/phalcon-sphinx",
   "type": "library",
   "autoload": {
     "psr-4": {
