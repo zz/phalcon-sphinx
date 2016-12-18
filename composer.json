@@ -1,5 +1,5 @@
 {
-  "name": "zz/phalcon-sphinx",
+  "name": "codeops/phalcon-sphinx",
   "type": "library",
   "autoload": {
     "psr-4": {
